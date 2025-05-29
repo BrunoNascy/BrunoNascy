@@ -1,6 +1,6 @@
 ## Ola eu sou Bruno Nascimento 👋
 
-- 🌱 Estou estudando Python
+- 🌱 Análise e Desenvolvimento de Sistemas (ADS)
 <div>
 <a href="https://www.linkedin.com/in/bruno-nascimento-551909175/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 
